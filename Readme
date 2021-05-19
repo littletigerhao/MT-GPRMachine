@@ -1,0 +1,22 @@
+This is the instruction for running MT-GPRMachine locally
+
+For running MT-GPRMachine locally, you have to have following packages installed:
+python 3.x
+tensorflow 2.x
+GPflow
+scikit-learn
+numpy
+
+Please run the codes on Linux operation system.
+
+Please put the whole folder 'MT-GPRMachine' anywhere on your computer;
+Then cd to $home_folder$/MT-GPRMachine/ProgramCodes;
+Open a terminal in current enviroument;
+Run '_main_**.py' by python3 _main_**.py in the terminal;
+You will get the prediction results in the folder $home_folder$/MT-GPRMachine/ResultFiles.
+
+------------------------------------------------------------------------------------------
+all rights reserved
+Chen research group
+contact: lnchen@sibs.ac.cn
+------------------------------------------------------------------------------------------
